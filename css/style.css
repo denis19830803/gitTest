@@ -1,3 +1,17 @@
 body {
+    font-family: serif;
     background-color: aqua;
+}
+
+p {
+    margin: 50px;
+    color: ccc;
+    font-size: 24px;
+}
+
+h1 {
+    display: inline-block;
+    border: 20px solid #ccc;
+    font-size: 98px;
+    color: rgb(223, 181, 43);
 }
