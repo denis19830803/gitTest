@@ -13,5 +13,6 @@ h1 {
     display: inline-block;
     border: 20px solid #ccc;
     font-size: 98px;
+    box-shadow: 5px 20px 10px rgba(194, 15, 15, 1);
     color: rgb(6, 231, 100);
 }
